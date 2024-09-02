@@ -1,0 +1,5 @@
+.homePage{
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #000000;
+}
