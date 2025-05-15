@@ -11,7 +11,7 @@ SocialFuseApp is a full-stack social media application designed to facilitate us
 - Modular Codebase: Organized folders for models, routes, components, and styles.
   
 ## Project Structure
-```bash
+```plaintext
 SocialFuseApp/
 ├── BackEnd/
 │   ├── models/           # Contains data models (e.g., User, Post, Story)
